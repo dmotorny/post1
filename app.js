@@ -47,7 +47,7 @@
   });
     
   app.component('home', {
-    template: `<p>Main page is under construction!</p>`
+    template: `<p>Main page is under construction! Sorry)</p>`
   })
   .component('boxtypes', {
     template: `<ul>
